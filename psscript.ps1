@@ -25,6 +25,7 @@ $i++
 Foreach($file in Get-ChildItem *.txt){
 mv "$file" "$($file)."
 }
+
 Foreach($file in Get-ChildItem *.doc){
 $file.Name |Rename-Item -NewName {$_ -replace ".doc",".txt"}
 }
