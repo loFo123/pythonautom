@@ -1,0 +1,13 @@
+https://www.coursera.org/learn/troubleshooting-debugging-techniques/lecture/zXeaB/slow-web-server
+-nice,renice,ab
+
+-------------------------------------------------------------------------
+
+https://www.coursera.org/learn/troubleshooting-debugging-techniques/lecture/zXeaB/slow-web-server
+-locate,less,psax
+
+----------------------------------------------------------------------
+
+https://www.coursera.org/learn/troubleshooting-debugging-techniques/lecture/7xf4A/slow-script-with-expensive-loop
+
+-time
